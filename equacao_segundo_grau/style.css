@@ -1,0 +1,12 @@
+.box_inputs input{
+
+    display: inline;
+    margin-bottom: 10px;
+
+}
+
+.box_buttons input{
+
+    width: 49.5%;
+
+}
